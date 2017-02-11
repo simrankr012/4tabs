@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">FourTabs</string>
+
+
+        <string name="navigation_drawer_open">Open navigation drawer</string>
+        <string name="navigation_drawer_close">Close navigation drawer</string>
+
+        <string name="action_settings">This bar is for extra Information </string>
+
+
+        <string name="dashboard_Category_Name">First</string>
+        <string name="Category_Item_Name">Item 1</string>
+        <string name="Item_view_AppBarTitle">   WoodnDecor</string>
+        <string name="Item_Number">Item Number</string>
+        <string name="Item_Name">Item Name</string>
+        <string name="Item_Location">Item Location</string>
+        <string name="Rupee_Symbol">₹</string>
+        <string name="Cost_Of_Item">Cost</string>
+        <string name="Add_To_Cart">  Add To Cart  </string>
+        <string name="Profile_view_AppBarTitle">   Profile</string>
+        <string name="chat_view_AppBarTitle">   Chat</string>
+        <string name="name_of_user">   Name</string>
+        <string name="dob_of_user">   Age</string>
+        <string name="mob_no_of_user">   Mobile no.</string>
+        <string name="address_of_user">   Address</string>
+    </resources>
+
+
